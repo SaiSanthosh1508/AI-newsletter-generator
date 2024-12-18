@@ -19,3 +19,7 @@
    - 🔗 **Source**: https://aiweekly.co/
    - 🏷️ **Category**: AI Models
    - 📝 **Key Insights**: This article discusses the latest advancements in Amazon's Bedrock service, highlighting its potential to accelerate AI adoption and drive business innovation through enhanced AI capabilities and user-friendly deployment options.
+
+### Installation instructions
+
+`git clone `
