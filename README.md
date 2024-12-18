@@ -1,7 +1,11 @@
 # AI-newsletter-generator
----
 
 ## Sample Output
+
+<details>
+  <summary style="color:blue; font-size:16px; font-weight:bold; cursor:pointer;">
+    Click to expand the sample output
+  </summary>
 
 ### 📰 AI Daily Digest - 24/09/2024
 
@@ -20,6 +24,10 @@
    - 🔗 **Source**: https://aiweekly.co/
    - 🏷️ **Category**: AI Models
    - 📝 **Key Insights**: This article discusses the latest advancements in Amazon's Bedrock service, highlighting its potential to accelerate AI adoption and drive business innovation through enhanced AI capabilities and user-friendly deployment options.
+
+</details>
+<br>
+<br>
 
 ## Installation instructions
 
