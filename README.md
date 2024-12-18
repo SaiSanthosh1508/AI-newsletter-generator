@@ -1,5 +1,6 @@
 # AI-NewsLetter-Generator
 <br>
+![multi-agent](https://github.com/user-attachments/assets/48da1605-48ad-4c07-b16b-3ee7df05567a)
 
 ## Installation instructions
 
