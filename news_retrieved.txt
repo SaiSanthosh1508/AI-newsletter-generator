@@ -1,0 +1,54 @@
+[
+    {  
+        'title': 'Meta Urges California Attorney General to Stop OpenAI From Becoming For-Profit', 
+        'url': 'https://www.wsj.com/tech/ai', 
+        'summary': 'Meta has urged the California Attorney General to stop OpenAI from becoming a for-profit company, citing concerns over the potential impact on the AI industry.'
+    },
+    {  
+        'title': 'Amazon Bedrock gains new AI models, tools, and features', 
+        'url': 'https://aiweekly.co/', 
+        'summary': 'Amazon Web Services (AWS) has announced improvements to its fully managed generative AI service, Bedrock, including new AI models, tools, and features.'
+    },
+    {  
+        'title': 'AI That Watches Videos by Mimicking the Brain', 
+        'url': 'https://www.sciencedaily.com/news/computers_math/artificial_intelligence/', 
+        'summary': 'Researchers have developed an AI system that can watch videos by mimicking the brain, allowing it to better understand and interpret visual data.'
+    },
+    {  
+        'title': 'Salesforce plans to hire 2,000 people to sell its AI products', 
+        'url': 'https://techcrunch.com/category/artificial-intelligence/', 
+        'summary': 'Salesforce has announced plans to hire 2,000 people to sell its AI products, as the company continues to expand its presence in the AI market.'
+    },
+    {  
+        'title': 'MIT researchers introduce Boltz-1, a fully open-source model for predicting biomolecular structures', 
+        'url': 'https://news.mit.edu/topic/artificial-intelligence2', 
+        'summary': 'MIT researchers have introduced Boltz-1, a fully open-source model for predicting biomolecular structures, which could have significant implications for the field of biology and medicine.'
+    },
+    {  
+        'title': 'Why Is Tech Giant SoftBank Investing Over $100 Billion in the US?', 
+        'url': 'https://www.usnews.com/topics/subjects/artificial-intelligence', 
+        'summary': 'Tech giant SoftBank has announced plans to invest over $100 billion in the US, with a significant portion of the investment going towards AI and technology companies.'
+    },
+    {  
+        'title': 'OpenAI
+        's Legal Battle With Elon Musk Reveals Internal Turmoil Over Avoiding AI Dictatorship', 
+        'url': 'https://www.usnews.com/topics/subjects/artificial-intelligence', 
+        'summary': 'OpenAI is facing a legal battle with Elon Musk, which has revealed internal turmoil over the company
+        's efforts to avoid creating an AI dictatorship.'
+    },
+    {  
+        'title': 'AI Advertising & Artificial Intelligence News', 
+        'url': 'https://www.adweek.com/category/artificial-intelligence/', 
+        'summary': 'The latest news and analysis on AI advertising and artificial intelligence, including insights from industry experts and emerging trends.'
+    },
+    {  
+        'title': 'Artificial Intelligence startup Basis has raised $34 million in a Series A funding round for its AI-powered accounting platform', 
+        'url': 'https://www.reuters.com/technology/artificial-intelligence/', 
+        'summary': 'Artificial intelligence startup Basis has raised $34 million in a Series A funding round for its AI-powered accounting platform, which aims to automate accounting tasks for businesses.'
+    },
+    {  
+        'title': 'The latest advances in artificial intelligence and machine learning, generative AI, ChatGPT, LLMs, deepfakes, and more', 
+        'url': 'https://spectrum.ieee.org/topic/artificial-intelligence/', 
+        'summary': 'The latest advances in artificial intelligence and machine learning, including generative AI, ChatGPT, LLMs, deepfakes, and more, are transforming industries and revolutionizing the way we live and work.'
+    }
+]
