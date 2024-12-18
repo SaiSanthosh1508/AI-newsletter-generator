@@ -1,4 +1,5 @@
 # AI-newsletter-generator
+---
 
 ## Sample Output
 
@@ -22,4 +23,20 @@
 
 ### Installation instructions
 
-`git clone `
+```
+git clone https://github.com/SaiSanthosh1508/AI-newsletter-generator/tree/main 
+cd AI-newsletter-generator
+```
+
+```
+pip install -r requirements.txt
+```
+
+**Note:** Replace the placeholder variable with the respective API keys before execution of the program
+
+```
+python main.py
+```
+
+**Note** The output is stored in the 
+
