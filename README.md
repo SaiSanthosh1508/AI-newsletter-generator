@@ -21,22 +21,27 @@
    - 🏷️ **Category**: AI Models
    - 📝 **Key Insights**: This article discusses the latest advancements in Amazon's Bedrock service, highlighting its potential to accelerate AI adoption and drive business innovation through enhanced AI capabilities and user-friendly deployment options.
 
-### Installation instructions
+## Installation instructions
 
+1.<b> Clone the repository and navigate to the directory</b>
 ```
 git clone https://github.com/SaiSanthosh1508/AI-newsletter-generator/tree/main 
 cd AI-newsletter-generator
 ```
 
+2.<b> Installing the required dependencies</b>
 ```
 pip install -r requirements.txt
 ```
 
-**Note:** Replace the placeholder variable with the respective API keys before execution of the program
+3.<b> Update the API keys:</b><br><br>
+Replace the placeholder variables with the respective API keys in the configuration file before running the program.
 
+4.<b> Run the program</b>
 ```
 python main.py
 ```
 
-**Note** The output is stored in the 
+5.<b> Output file location</b><br><br>
+The generated output will be saved in a file named `news_formatted.md`
 
