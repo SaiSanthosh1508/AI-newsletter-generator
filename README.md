@@ -1,4 +1,4 @@
-# AI-newsletter-generator
+# AI-NewsLetter-Generator
 
 ## Sample Output
 
